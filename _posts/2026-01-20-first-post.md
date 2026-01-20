@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ""
+title: "title of the first post"
 image: /assets/images/IMG_1063.JPG
 ---
 
-Test
+This is my first post. 

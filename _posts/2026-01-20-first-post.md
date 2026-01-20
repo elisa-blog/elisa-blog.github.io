@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "First post"
+title: ""
+image: /assets/images/photo.jpg
 ---
 
-This is my first blog post.
-
-I am writing in Markdown.
+Test
